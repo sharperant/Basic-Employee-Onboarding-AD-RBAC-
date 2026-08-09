@@ -26,5 +26,7 @@
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
+* Designed department-based OU structure (Finance, HR, IT, Operations)
+* Implemented RBAC with security groups mapped to each department
 * Solved a mock ticket where a user was given the incorrect access!
 * I fully documented my steps end-to-end
