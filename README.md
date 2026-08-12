@@ -7,7 +7,7 @@
 * The solution was to build a basic employee onboarding pipeline in Active Directory. I created an RBAC matrix to define the appropriate access for each role. Users were then assigned permissions based on their job responsibilities. I also simulated a support ticket involving a user who was incorrectly provisioned with excessive access. This allowed me to identify and correct the access issue while reinforcing the importance of least-privilege access.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+(https://www.loom.com/share/75017645f21f415383154a583e3bc586)
 
 ## Tools Used
 * Windows Server
